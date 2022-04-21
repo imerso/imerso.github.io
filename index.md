@@ -2,7 +2,7 @@
   <head>
   </head>
   <body>
-    Github Template
+    <a href="babylon.js/template">Babylon.js Typescript Template</a>
   </body>
 </html>
-  
+
