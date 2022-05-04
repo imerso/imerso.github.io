@@ -9,6 +9,7 @@
     <a href="https://github.com/imerso/bjs_floating_origin">Babylon.js Floating-Origin Template - SOURCE</a><br />  </body>
     <br />
     <a href="babylon.js/facecap">Babylon.js + Mediapipe Face Capture - DEMO</a><br />
-    <a href="https://github.com/imerso/facecap">Babylon.js + Mediapipe Face Capture - SOURCE</a><br />  </body>
+    <a href="https://github.com/imerso/facecap">Babylon.js + Mediapipe Face Capture - SOURCE</a><br />
+  </body>
 </html>
 
